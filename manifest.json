@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Color Selector",
+    "name": "Hex Picker",
     "description": "Simple color picker extension.",
     "version": "1.0",
     "action": {

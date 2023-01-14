@@ -23,7 +23,7 @@
 .picker #color-picker {
   border: none;
   outline: none;
-  color: #353535;
+  color: #214b36;
   font-size: 1rem;
   cursor: pointer;
   padding: 10px 20px;
@@ -33,6 +33,7 @@
 }
 #color-picker:hover {
   background: #ffcb30;
+  color:#745d18
 }
 .picked-colors {
   margin: 10px 15px;
@@ -46,10 +47,10 @@ header .title {
 header .clear-all {
   cursor: pointer;
   font-size: 0.9rem;
-  color: #a57c00;
+  color: #278f5b;
 }
 header .clear-all:hover {
-  color: #775900;
+  color: #f0ba1a;
 }
 .picked-colors.hide {
   display: none;
