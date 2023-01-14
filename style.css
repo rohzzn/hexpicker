@@ -16,22 +16,22 @@
 }
 .popup .picker {
   padding: 30px 0;
-  background: #E3F2FD;
+  background: #353535;
   justify-content: center;
 }
 .picker #color-picker {
   border: none;
   outline: none;
-  color: #fff;
+  color: #353535;
   font-size: 1rem;
   cursor: pointer;
   padding: 10px 20px;
   border-radius: 5px;
-  background: #5372F0;
+  background: #f2c94b;
   transition: 0.3s ease;
 }
 #color-picker:hover {
-  background: #2c52ed;
+  background: #ffcb30;
 }
 .picked-colors {
   margin: 10px 15px;
