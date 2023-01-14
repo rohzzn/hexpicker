@@ -9,6 +9,7 @@
 .popup {
   width: 350px;
   background: #fff;
+  color: #353535;
 }
 .popup :where(.picker, header, .all-colors) {
   display: flex;
@@ -27,7 +28,7 @@
   cursor: pointer;
   padding: 10px 20px;
   border-radius: 5px;
-  background: #f2c94b;
+  background: #90b7a4;
   transition: 0.3s ease;
 }
 #color-picker:hover {
@@ -45,10 +46,10 @@ header .title {
 header .clear-all {
   cursor: pointer;
   font-size: 0.9rem;
-  color: #5372F0;
+  color: #a57c00;
 }
 header .clear-all:hover {
-  color: #143feb;
+  color: #775900;
 }
 .picked-colors.hide {
   display: none;
