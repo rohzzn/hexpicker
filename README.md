@@ -10,7 +10,7 @@
 
 
 ## Installation 
-[Click here]() to add the extension to your browser.
+[Click here](https://chrome.google.com/webstore/detail/hex-picker/jmnkgndafoldkblpnmmollbgkdfemmfc) to add the extension to your browser.
 
 ## Usage
 
